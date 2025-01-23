@@ -6,5 +6,5 @@ Blueprints for Satisfactory
 ## Blueprints Folder
 
 ```
-%LocalAppData%\FactoryGame\Saved\SaveGames\blueprint
+%LocalAppData%\FactoryGame\Saved\SaveGames\blueprints
 ```
