@@ -1,0 +1,19 @@
+# Satisfactory Tools export (version 1)
+
+# Contains these production lines:
+# - Concrete Factory
+# - Iron Plate Factory
+# - Wire Factory
+# - Quartz Crystal Factory
+# - Steel Beam Factory
+# - Quickwire Factory
+# - Reinforced Iron Plate Factory
+# - Motor Factory
+# - Encased Industrial Beam Factory
+# - Plastic Factory
+# - Computer Factory
+# - Aluminum Ingot Factory
+
+0eJztm99vmzAQx/8XnhHC/CZvXaZ1lZZ1S7T1YaoiB66JVbBTY9ZuVf73GWhImqCQqZvaqscDIWf4nu/OfHQB5d5Qv5ZgDAxFZ4VhNh+DH/dGDoqmVFFjcG9wmutTeJllpsESwdfHRbKAnH4HWbDKSExjrs9svxu2sTINCTclFKrSoVkmbiE9yRRIThWMIWFLqPxdmsYsE8k1pF22EU0WjO+dWIhSJmtrwfg1nWWwY15KkZaJquejo2IKcj2x91Ak0yHkwNV0WEXd5GAJcsR4qUCbaC5Krmft2ToEqgV0fLa90pKML0vVqMsHZyN6V8VXy55LOJOCa91B7OhLzNY8FEvtoRpwg7gdmCjBoTIG8cY4FDSrbJ7jbiuciiytzMS3W/MndlOy9JzV5xMnaAfG9PZrSaX6XQ+4/sZjmV2V9TyIHW3Lv6Plnc5QI/TI8TdJOSvzamQrps9MSTEHfkqL5prNrCYno8aB05oudMVrrzrMkMSx43uhZ8cxWW0SeQFsvlBduSRdeXQsL/Zjd7MLdpNKLJeEfhz4QeA7bmD7ZCfDjkXC0LW9OPB8t5qZs5/uwCKevbWRrtSHlmvH2kfU7ElXFQIrch5texWJLN8Jt7a4szqh5UVhZLc70lkpz7UiPySe87APussWWkHod0T3UMLYsp3YIyQMvND2o8jZLae9Wq3MtwCMail+yWhdgr9hhrkvMxZpn4jbKzJJJNz2yeibEgGGAEOAIcCmF0z2sis4iJ1h5fBp5GoW/2QB0Nt7uYguRBeiC9GVTJs6DuWvQtVr53D/5R8C0IRlLKF9GqGP7EH2IHuQPXpRAWRH/fBzHOswemolPe1eIex8kD5In1dLn3W1+U+QzYT/IY8+6tU6WQKkx/yeq+8ERAmiBFHyolBiNIfTdmi6fpz7rI+2x8D4ldDX9D6f3mlRdjqdkXaVUflB6vT0KREkFBIKCYWEOkSokVBC9pEkOISk8ZMVJooeIeEizZBmSLMXRrPnfXB0fFuFzRDiA/GB+NARa3IUiiW9xDj8yn5czmbQ27TsiiB3kDvInbfJnaHI9Z3fzwx8Q47EQGK8WmKsq/1f3lGdZGWueZGf8bno/49FhM0HogRR0oOSy9UfvQ9tPg==
+
+# Exported on 2025-01-31T17:13:18.085Z
