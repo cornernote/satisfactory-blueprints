@@ -1,0 +1,1 @@
+https://satisfactory-calculator.com/en/blueprints/index/index/idU/64673/user/sykkO
