@@ -1,0 +1,74 @@
+These are colors that I use for my factory sets:
+
+#C90000 VHS RED
+#FFB900 VHS YELLOW
+#4EAC00 VHS GREEN
+#0019C8 VHS BLUE
+
+#890000 MCRN RED
+#F08E1D MCRN YELLOW
+#581A02 MCRN BROWN
+#323232 MCRN GREY
+
+#FAEDD7 SUBTLE WHITE
+#6CA8D3 SUBTLE BLUE
+#7CD1B9 SUBTLE TEAL
+#73A25D SUBTLE LIME
+#3F5539 SUBTLE GREEN
+
+#C34700 CONCRETE RED (in 1.0 swapped to bronze paint)
+
+#######################################
+AVANTE-GARDE COMPUTER FACTORY:   
+
+#FFFFFF WHITE with power of 100
+#C90000 VHS RED with power of 100
+#FFB900 VHS YELLOW with power of 100
+#0019C8 VHS BLUE with power of 25
+CARBON BLACK PAINT for Painted Beams
+
+#######################################
+SPACE ELEVATOR SKYSCRAPERS:   
+
+#6CA8D3 SUBTLE BLUE for Concrete Pillars on Art Deco Skyscraper
+CATERIUM PAINT for Painted beams on Art Deco Skyscraper
+CARBON BLACK PAINT for walls on Art Deco and Monolith Skyscraper
+CHROME PAINT for Painted beams on VF Skyscraper
+UNPAINTED PAINT for Concrete Pillars on Monolith Skyscraper
+
+#######################################
+ART DECO COAL POWER PLANT:         
+
+CATERIUM PAINT for Painted beams
+#00C9C1 for terracotta Concrete
+
+#######################################
+BRUTALIST DILUTED FUEL POWER PLANT:         
+
+BRONZE PAINT for Concrete
+NO PAINT PAINT for Pipes
+CARBON BLACK PAINT for Normal Walls, Beams and Widows
+
+#######################################
+FLUCTATORS:
+
+#f08e1d GRADIENT YELLOW TO RED 01
+#db7117 GRADIENT YELLOW TO RED 02
+#cd5e13 GRADIENT YELLOW TO RED 03
+#c35110 GRADIENT YELLOW TO RED 04
+#bd480e GRADIENT YELLOW TO RED 05
+#b43b0c GRADIENT YELLOW TO RED 06
+#aa2e09 GRADIENT YELLOW TO RED 07
+#a82c08 GRADIENT YELLOW TO RED 08
+
+#f08e1d BANANA GRADIENT 01
+#c49017 BANANA GRADIENT 02
+#909311 BANANA GRADIENT 03
+#65950c BANANA GRADIENT 04
+#3e9707 BANANA GRADIENT 05
+
+#1a4d91 BLUE TO GREEN GRADIENT 01
+#235f70 BLUE TO GREEN GRADIENT 02
+#2b714f BLUE TO GREEN GRADIENT 03
+#35852a BLUE TO GREEN GRADIENT 04
+#3e9707 BLUE TO GREEN GRADIENT 05
